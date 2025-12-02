@@ -1,35 +1,53 @@
-> [!IMPORTANT]
-> WIP!
-> The app is on early alpha stage. And published to production with MVP functionality.
+![urlnotes.dev](https://raw.githubusercontent.com/urlnotes/urlnotes/refs/heads/main/src/app/favicon.ico)
 
-# <img src="https://raw.githubusercontent.com/urlnotes/urlnotes/refs/heads/main/public/logo.png" width="24"> urlnotes.dev
+# urlnotes.dev
 
-Free and open source link bookmarking app for personal use. Preview, organize and share your links and collections.
+**Free and open-source personal link bookmarking app.** \
+Preview, organize, and share your links and collections.
 
 [Start bookmarking →](https://urlnotes.dev)
 
+## Status
+
+> [!IMPORTANT]
+> WIP!
+> This app is on early alpha stage. And published to production with MVP functionality.
+
 ## Features
 
-### Short run
+We are actively developing the app and continuously expanding its functionality.\
+Your feedback is highly appreciated — it helps us prioritize features and improve the overall experience.
 
-- [x] Preview og:image of the link
-- [x] Auto insert title
-- [x] Assign to collection
+Feel free to open [issues](https://github.com/urlnotes/urlnotes/issues), share suggestions, or contribute directly.
+
+### Current
+
+- [x] Link image preview with `og:image`/`title:image` or screenshot via thum.io (bring your own key)
+- [x] Automatic title extraction
+- [x] Add links to collections
+
+## In progress
+
 - [ ] Collections suggestions
-- [ ] Share link
-- [ ] Share collection
-- [ ] Custom collection icon
-- [ ] Link note
+- [ ] Share individual links
+- [ ] Share collections
+- [ ] Custom collection icons
+- [ ] Notes for the link
 
-### Long run
+### Planned (long term)
 
-- [ ] Preview and read mode
-- [ ] AI summarization
+- [ ] Reader mode with content preview
+- [ ] AI-powered summaries (bring your own key)
+- [ ] AI-powered collections suggestions (bring your own key)
 - [ ] Organizations (maybe)
-- [ ] Teams (maybe)
+- [ ] Team features (maybe)
+
+## Pricing and license
+
+The [urlnotes.dev](https://urlnotes.dev) app is free and always will be and under MIT license. You can copy, modify, sell (please don't) how you want.
 
 ## Contriblute
 
-- Fork
-- Make changes
-- PR
+1. Fork the [repository](https://github.com/urlnotes/urlnotes)
+2. Make your changes
+3. Open a Pull Request
