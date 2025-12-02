@@ -48,6 +48,6 @@ The [urlnotes.dev](https://urlnotes.dev) app is free and always will be and unde
 
 ## Contriblute
 
-1. Fort the repository
+1. Fort the [repository](https://github.com/urlnotes/urlnotes)
 2. Make your changes
 3. Open a Pull Request
