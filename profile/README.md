@@ -11,14 +11,14 @@ Preview, organize, and share your links and collections.
 
 > [!IMPORTANT]
 > WIP!
-> The app is on early alpha stage. And published to production with MVP functionality.
+> This app is on early alpha stage. And published to production with MVP functionality.
 
 ## Features
 
 We are actively developing the app and continuously expanding its functionality.\
 Your feedback is highly appreciated — it helps us prioritize features and improve the overall experience.
 
-Feel free to open issues, share suggestions, or contribute directly.
+Feel free to open [issues](https://github.com/urlnotes/urlnotes/issues), share suggestions, or contribute directly.
 
 ### Current
 
@@ -48,6 +48,6 @@ The [urlnotes.dev](https://urlnotes.dev) app is free and always will be and unde
 
 ## Contriblute
 
-1. Fort the [repository](https://github.com/urlnotes/urlnotes)
+1. Fork the [repository](https://github.com/urlnotes/urlnotes)
 2. Make your changes
 3. Open a Pull Request
